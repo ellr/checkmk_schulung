@@ -1,4 +1,4 @@
-# CheckMK Schlung
+# CheckMK Schulung
 
 How to start:
 
